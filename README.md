@@ -5,7 +5,7 @@ Home: http://github.com/bioidiap/bob.core
 
 Package license: Modified BSD License (3-clause)
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Logging and RNG for Bob
 
