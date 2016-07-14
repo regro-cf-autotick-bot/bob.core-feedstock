@@ -6,7 +6,7 @@ package:
 
 source:
   fn: bob.core-{{ version }}.zip
-  url: https://pypi.python.org/packages/source/b/bob.core/bob.core-{{ version }}.zip
+  url: https://pypi.io/packages/source/b/bob.core/bob.core-{{ version }}.zip
   md5: b1d4432bf0da4a0941185c767668f563
 
 build:
