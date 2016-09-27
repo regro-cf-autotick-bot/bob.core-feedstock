@@ -1,4 +1,4 @@
-{% set version = "2.1.3" %}
+{% set version = "2.1.4" %}
 
 package:
   name: bob.core
@@ -7,7 +7,7 @@ package:
 source:
   fn: bob.core-{{ version }}.zip
   url: https://pypi.io/packages/source/b/bob.core/bob.core-{{ version }}.zip
-  md5: b1d4432bf0da4a0941185c767668f563
+  md5: a13a56264a8c24df189a51eadb8a7b44
 
 build:
   number: 0
@@ -40,7 +40,7 @@ test:
   - nosetests -sv bob.core
 
 about:
-  home: http://github.com/bioidiap/bob.core
+  home: https://www.idiap.ch/software/bob/
   license: Modified BSD License (3-clause)
   summary: Logging and RNG for Bob
 
