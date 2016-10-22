@@ -1,4 +1,4 @@
-{% set version = "2.1.4" %}
+{% set version = "2.1.6" %}
 
 package:
   name: bob.core
@@ -7,7 +7,7 @@ package:
 source:
   fn: bob.core-{{ version }}.zip
   url: https://pypi.io/packages/source/b/bob.core/bob.core-{{ version }}.zip
-  md5: a13a56264a8c24df189a51eadb8a7b44
+  md5: 954e71c130b4e4d77a0ec2a5f13e8bb6
 
 build:
   number: 0
