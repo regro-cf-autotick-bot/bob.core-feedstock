@@ -3,7 +3,7 @@ About bob.core
 
 Home: https://www.idiap.ch/software/bob/
 
-Package license: Modified BSD License (3-clause)
+Package license: BSD 3-Clause
 
 Feedstock license: BSD 3-Clause
 
