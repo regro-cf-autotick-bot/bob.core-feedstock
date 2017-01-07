@@ -10,7 +10,7 @@ source:
   md5: 954e71c130b4e4d77a0ec2a5f13e8bb6
 
 build:
-  number: 1
+  number: 2
   skip: true  # [win]
 
 requirements:
@@ -21,12 +21,12 @@ requirements:
     - cmake
     - pkg-config
     - bob.blitz
-    - boost 1.62.*
+    - boost 1.63.*
 
   run:
     - python
     - bob.blitz
-    - boost 1.62.*
+    - boost 1.63.*
 
 test:
   requires:
